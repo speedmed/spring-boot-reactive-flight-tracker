@@ -1,0 +1,4 @@
+opensky:
+  root_url: https://username:password@opensky-network.org/api
+  all_states: /states/all
+  all_flights: /flights/all
