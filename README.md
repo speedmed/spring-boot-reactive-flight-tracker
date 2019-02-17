@@ -6,6 +6,9 @@ Reactive Programming still attracts developer community attention and gains more
 # Explanation Link
 
 You will find the full explanation to implement the project on my Blog.
+
+http://www.ninjadevcorner.com/2018/10/build-reactive-flight-tracker-api-with-spring-boot-and-webflux.html
+
 https://ninjadevcorner.blogspot.com/2018/10/build-reactive-flight-tracker-api-with-spring-boot-and-webflux.html
 
 # Reactive Streams
